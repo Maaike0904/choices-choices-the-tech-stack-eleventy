@@ -15,7 +15,6 @@ Wij voeren geen analyse uit zonder handelingsperspectief en bieden zowel creatie
 
 <section
   class="expertise section">
-
   <div class="expertise__wrapper">
     <div class="expertise__card">
       <img class="expertise3" src="assets/Untitled4.png" alt="Illustratie klimaatadaptatie"/>
@@ -25,7 +24,7 @@ Wij voeren geen analyse uit zonder handelingsperspectief en bieden zowel creatie
       </a>
     </div>
 
-    <div class="expertise__card">
+<div class="expertise__card">
       <img class="expertise2" src="assets/Untitled3.png" alt="Illustratie waterkwaliteit"/>
       <h3>Waterkwaliteit</h3>
       <a href="#waterkwaliteit" class="button">
@@ -33,7 +32,7 @@ Wij voeren geen analyse uit zonder handelingsperspectief en bieden zowel creatie
       </a>
     </div>
     
-    <div class="expertise__card">
+<div class="expertise__card">
       <img class="expertise2" src="assets/brainlogo.png" alt="Illustratie B-Rain"/>
       <h3> B-Rain</h3>
       <a href="#brain" class="button">
@@ -42,7 +41,6 @@ Wij voeren geen analyse uit zonder handelingsperspectief en bieden zowel creatie
     </div>
   </div>
 </section>
-
 
 ## Klimaatadaptatie
 
@@ -113,4 +111,3 @@ B-rain wil bewoners positief betrokken houden bij het bufferen van regenwater en
 ![Mees](images/mees1.png)
 ![Jesse](images/jesse.png)
 ![Timo](images/timo.png)
-
