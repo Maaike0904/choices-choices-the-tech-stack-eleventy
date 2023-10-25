@@ -1,8 +1,10 @@
 // INPUT EN OUTPUT INSTELLEN
 module.exports = function (eleventyConfig) {
-// CSS WORD HIER GEKOPPELD
+  // CSS, images en admin WORDEN HIER GEKOPPELD
   eleventyConfig.addPassthroughCopy("./src/style.css");
   eleventyConfig.addPassthroughCopy("images");
+  eleventyConfig.addPassthroughCopy("admin");
+
   return {
     dir: {
       input: "src",
