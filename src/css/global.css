@@ -1,23 +1,31 @@
 * {
   box-sizing: border-box;
-  padding: 0;
+  padding: 0em;
   margin: 0;
   scroll-behavior: smooth;
   font-family: "Open sans", sans-serif;
 }
 
+body {
+  width: 100vw;
+  padding: 2em;
+}
+
 h2 {
+  padding: 0rem;
   color: var(--spat);
-  font-size: 1.3rem;
+  /* margin-bottom: 1rem; */
 }
 
 h3 {
-  color: white;
+  color: var(--darkblue);
   font-size: 1rem;
 }
 
 p {
-  color: #2b3f5a;
+  margin-bottom: 1rem;
+  color: var(--darkblue);
+  font-size: 0.8rem;
 }
 
 /* NAVIGATIE */
@@ -31,7 +39,7 @@ p {
 .container {
   max-width: 100vw;
   margin: 0 auto;
-  padding: 0.8rem 2rem;
+  /* padding: 0.8rem 2rem; */
 }
 
 a {
@@ -70,6 +78,7 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  color: var(--darkblue);
 }
 
 .nav-toggle {
@@ -86,8 +95,8 @@ a {
 }
 
 /* .nav-open {
-    height: 100vh;
-  } */
+  height: 100vh;
+} */
 
 @media only screen and (min-width: 900px) {
   .nav-toggle {
@@ -372,7 +381,7 @@ main {
 /* OVER */
 section {
   width: 100%;
-  padding-top: 5rem;
+  /* padding-top: 5rem; */
   padding-bottom: 5rem;
   margin-bottom: 5rem;
   background: var(--lg-bg);
@@ -441,7 +450,7 @@ section {
 }
 
 .first-section {
-  margin-top: 5rem;
+  /* margin-top: 5rem; */
 }
 
 .light-background {
@@ -613,7 +622,6 @@ h2 {
 }
 
 section {
-  margin-top: 5rem;
   height: 95vh;
   background: white;
 }
@@ -997,7 +1005,7 @@ a {
 /* BRAIN */
 section {
   width: 100%;
-  padding-top: 5rem;
+  /* padding-top: 5rem; */
   padding-bottom: 3rem;
   margin-bottom: 5rem;
   background: var(--lg-bg);
@@ -1012,7 +1020,7 @@ section {
 h2 {
   padding: 0rem;
   color: var(--spat);
-  margin-bottom: 1rem;
+  /* margin-bottom: 1rem; */
 }
 
 .bold-text {
@@ -1130,7 +1138,8 @@ section {
 
   h2 {
     font-size: 1rem;
-    padding: 4rem 2rem;
+    /* padding: 2rem 0rem; */
+    padding-top: 4em;
   }
 
   .team2 {
@@ -1255,6 +1264,12 @@ ul {
 
 li,
 a {
+  text-decoration: none;
+  color: var(--darkblue);
+  cursor: pointer;
+}
+
+footer a {
   text-decoration: none;
   color: white;
   cursor: pointer;

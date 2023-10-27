@@ -10,6 +10,8 @@ Met expertise op het gebied van waterkwaliteit, de Kaderrichtlijn Water en klima
 
 Wij voeren geen analyse uit zonder handelingsperspectief en bieden zowel creatieve als praktische oplossingen.
 
+![Tree](images/tree.png)
+
 ## Expertise
 
 <section
@@ -18,10 +20,11 @@ Wij voeren geen analyse uit zonder handelingsperspectief en bieden zowel creatie
     <div class="expertise__card">
       <img class="expertise3">
 
-![project 1](images/Untitled4.png)
+![klimaatadaptatie image](images/Untitled4.png)
 
-      <h3>Klimaatadaptatie</h3>
-      <a href="#klimaat" class="button">
+### Klimaatadaptatie
+
+  <a href="#klimaat" class="button">
         <p class="button_text2">Meer informatie</p>
       </a>
     </div>
@@ -29,9 +32,10 @@ Wij voeren geen analyse uit zonder handelingsperspectief en bieden zowel creatie
 <div class="expertise__card">
       <img class="expertise2"/>
 
-![project 1](images/Untitled3.png)
+![waterkwaliteit image](images/Untitled3.png)
 
-      <h3>Waterkwaliteit</h3>
+### Waterkwaliteit
+
       <a href="#waterkwaliteit" class="button">
         <p class="button_text2">Meer informatie</p>
       </a>
@@ -40,16 +44,19 @@ Wij voeren geen analyse uit zonder handelingsperspectief en bieden zowel creatie
 <div class="expertise__card">
       <img class="expertise2">
 
-![project 1](images/brainlogo.png)
+![b-rain image](images/brainlogo.png)
 
-      <h3> B-Rain</h3>
-      <a href="#brain" class="button">
+### B-Rain
+
+  <a href="#brain" class="button">
         <p class="button_text2">Meer informatie</p>
       </a>
     </div>
 
   </div>
 </section>
+
+<div class="light-background">
 
 ## Klimaatadaptatie
 
@@ -63,6 +70,8 @@ bestaat uit private grond (tuinen, daken, bedrijventerreinen) en dat het absoluu
 - Hoe activeer je bewoners?
 
 ![project 1](images/projects1.png)
+
+</div>
 
 ## Gemeenten
 
