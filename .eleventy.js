@@ -2,7 +2,7 @@
 module.exports = function (eleventyConfig) {
   // CSS, images en admin WORDEN HIER GEKOPPELD
   eleventyConfig.addPassthroughCopy("src/css/global.css");
-  eleventyConfig.addPassthroughCopy("images");
+  eleventyConfig.addPassthroughCopy("src/images");
   eleventyConfig.addPassthroughCopy("admin");
 
   return {

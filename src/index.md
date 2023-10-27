@@ -1,5 +1,4 @@
 ---
-title: Homepage SPATwater 3.0
 layout: "home.njk"
 ---
 
@@ -17,7 +16,10 @@ Wij voeren geen analyse uit zonder handelingsperspectief en bieden zowel creatie
   class="expertise section">
   <div class="expertise__wrapper">
     <div class="expertise__card">
-      <img class="expertise3" src="assets/Untitled4.png" alt="Illustratie klimaatadaptatie"/>
+      <img class="expertise3">
+
+![project 1](images/Untitled4.png)
+
       <h3>Klimaatadaptatie</h3>
       <a href="#klimaat" class="button">
         <p class="button_text2">Meer informatie</p>
@@ -25,20 +27,27 @@ Wij voeren geen analyse uit zonder handelingsperspectief en bieden zowel creatie
     </div>
 
 <div class="expertise__card">
-      <img class="expertise2" src="assets/Untitled3.png" alt="Illustratie waterkwaliteit"/>
+      <img class="expertise2"/>
+
+![project 1](images/Untitled3.png)
+
       <h3>Waterkwaliteit</h3>
       <a href="#waterkwaliteit" class="button">
         <p class="button_text2">Meer informatie</p>
       </a>
     </div>
-    
+
 <div class="expertise__card">
-      <img class="expertise2" src="assets/brainlogo.png" alt="Illustratie B-Rain"/>
+      <img class="expertise2">
+
+![project 1](images/brainlogo.png)
+
       <h3> B-Rain</h3>
       <a href="#brain" class="button">
         <p class="button_text2">Meer informatie</p>
       </a>
     </div>
+
   </div>
 </section>
 
@@ -98,7 +107,7 @@ Weersextremen in Nederland nemen steeds verder toe. Enerzijds komen in periodes 
 
 B-rain wil bewoners positief betrokken houden bij het bufferen van regenwater en het groen houden van hun tuin. Door enkele gegevens in een app aan te geven, geeft deze app terug wanneer de regenwaterbuffer vol zit, wanneer deze geleegd moet worden (als er bijvoorbeeld een grote regenbui aan komt) en wanneer het lang niet regent (waardoor je zoveel mogelijk water in de regenwaterbuffer wil vasthouden).
 
-<button>Bekijk project</button>
+<p class="button_text2">Bekijk project</p>
 
 ![bRain](images/bRAIN.png)
 
